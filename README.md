@@ -18,11 +18,11 @@ php artisan fetch:wb-data --dateFrom=2025-10-28 --dateTo=2025-10-29 --limit=100
 ```
 
 ## Доступ к базе данных
-Тип БД: MySQL
-Хост: db4free.net
-Порт: 3306
-Имя БД: wbapitest
-Пользователь: wbtuzina
-Пароль: Test1234!
-Кодировка: utf8mb4
-Collation: utf8mb4_unicode_ci
+- Тип БД: MySQL
+- Хост: db4free.net
+- Порт: 3306
+- Имя БД: wbapitest
+- Пользователь: wbtuzina
+- Пароль: Test1234!
+- Кодировка: utf8mb4
+- Collation: utf8mb4_unicode_ci
