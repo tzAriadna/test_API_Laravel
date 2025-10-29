@@ -26,3 +26,8 @@ php artisan fetch:wb-data --dateFrom=2025-10-28 --dateTo=2025-10-29 --limit=100
 - Пароль: Test1234!
 - Кодировка: utf8mb4
 - Collation: utf8mb4_unicode_ci
+
+
+  ## Результат:
+  <img width="1830" height="808" alt="image" src="https://github.com/user-attachments/assets/1c520b93-5ba0-4bef-9871-8cac5637660f" />
+
